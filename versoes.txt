@@ -1,0 +1,9 @@
+Git add - comando adiciona os arquivos solicitados.
+
+Git commit -  gravação das modificações
+
+Git push - envia as modificações no nosso repositório remoto
+
+Git status -  permite ver os arquivos 
+
+Git branch - verificar todas as branches presentes no repositório
